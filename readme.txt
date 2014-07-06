@@ -1,7 +1,7 @@
 ﻿GMO foods iPhone Application
 -----------------------------
 
-This was a very popular but ill-fated iphone application I developed in 2013. 
+This was a very popular but ill-fated iphone application I released on the App Store in 2013. 
 
 It's a simple catalog of various foods that were included in the yearly report by the Greek branch of Greenpeace. The foods are marked with a color coding depending on the producer's level of commitment to replacing genetically modified ingredients.
 
